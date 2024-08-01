@@ -1,0 +1,30 @@
+.html {
+  background-color: black;
+}
+
+.mylogo {
+  padding-top: 30px;
+  padding-left: 30px;
+  height: 100px;
+}
+
+.product {
+  height: 700px;
+  vertical-align: top;
+  padding-top: 200px;
+}
+
+.p {
+  color: white;
+  font-family: sans-serif;
+  padding-top: 30px;
+  text-align: center;
+  margin: 20px;
+  line-height: 25px;
+}
+
+.zk {
+  color: white;
+  text-align: center;
+  padding-top: 40px;
+}
